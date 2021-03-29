@@ -1,4 +1,4 @@
-## Module 6: gNOI cert.proto certificate management API
+# Module 6: gNOI cert.proto certificate management API
 
 ## Topics Covered 
 Introduction to gNMI
